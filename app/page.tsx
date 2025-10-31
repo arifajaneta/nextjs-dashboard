@@ -40,7 +40,7 @@ export default function Page() {
 
           
           }
-          <image
+          <Image
           src="/hero-mobile.png"
           width={560}
           height={620}
